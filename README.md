@@ -9,6 +9,6 @@ from user's input using JavaScript.
 
 [Live Website](https://kerilp.github.io/password-generator/)
 
-[Source Code](https://kerilp.github.io/password-generator/)
+[Source Code](https://github.com/kerilp/password-generator)
 
 ![Site Screenshot](./assets/images/screenshot.png)

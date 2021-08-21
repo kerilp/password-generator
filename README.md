@@ -8,6 +8,7 @@ from user's input using JavaScript.
 ## Links
 
 [Live Website] (https://kerilp.github.io/password-generator/)
+
 [Source Code] (https://kerilp.github.io/password-generator/)
 
 ![Site Screenshot] (./assets/images/screenshot.png)

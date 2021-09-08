@@ -1,9 +1,10 @@
 # Password Generator
 
-## Homework 03: Password Generator
+Created JavaScript for existing HTML/CSS project that allows user to generate a password based on chosen criteria.
 
-Refactor existing code to generate a password based on criteria 
-from user's input using JavaScript.
+## Technology Used
+
+Language: JavaScript
 
 ## Links
 
@@ -11,4 +12,11 @@ from user's input using JavaScript.
 
 [Source Code](https://github.com/kerilp/password-generator)
 
+
+## Screenshot
+
 ![Site Screenshot](./assets/images/screenshot.png)
+
+## License
+
+MIT License
